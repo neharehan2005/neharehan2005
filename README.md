@@ -2,7 +2,7 @@
 
 #  Neha Rehan
 
-### 💻 Software Developer | Frontend Engineering | 🔐 Cybersecurity | 🤖 AI
+### 💻 Software Developer | Frontend Engineer | 🔐 Cybersecurity | 🤖 AI
 
 <p>
   <a href="https://github.com/neharehan2005">
