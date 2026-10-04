@@ -53,7 +53,7 @@ Alongside software development, I'm actively developing my cybersecurity skills 
 ### 🌐 Web & Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,reactnative,flask,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,flask,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Tools
@@ -90,7 +90,7 @@ I'm currently building practical cybersecurity skills through hands-on labs, CTF
 
 ### 🧪 TryHackMe
 
-**Current Progress: 7%**
+**Current Progress: Top 7%**
 
 Currently practicing cybersecurity through hands-on rooms and challenges involving:
 
