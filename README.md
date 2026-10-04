@@ -6,13 +6,13 @@
 
 <p>
   <a href="https://github.com/neharehan2005">
-    <img src="https://img.shields.io/github/followers/neharehan2005?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/neharehan2005?tab=repositories">
-    <img src="https://img.shields.io/github/stars/neharehan2005?label=Stars&style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-neharehan2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/neha-rehan-dcs/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/">
+    <img src="https://img.shields.io/badge/TryHackMe-7%25%20Progress-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 </p>
 
@@ -20,60 +20,40 @@
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-I'm a **Computer Science student at the University of Karachi** with an interest in building practical software and exploring cybersecurity and artificial intelligence.
+I'm a **Computer Science student at the University of Karachi** interested in software development, frontend engineering, cybersecurity, and artificial intelligence.
 
-I enjoy turning ideas into working applications — from **web and mobile interfaces** to **database-driven systems, simulations, and data dashboards**.
+I enjoy building practical applications, learning new technologies, and solving problems through hands-on projects.
 
-Alongside software development, I'm exploring **ethical hacking, vulnerability assessment, networking, Linux, and defensive security concepts** through hands-on labs and practical learning.
+Alongside software development, I'm actively developing my cybersecurity skills through **TryHackMe, CTF competitions, security labs, and ethical hacking exercises**.
 
-> 💡 **Build. Learn. Experiment. Improve.**
-
----
-
-## 🎯 What I Do
+### My Interests
 
 ```text
 💻 Software Development
-   ├── Frontend Development
-   ├── Web Applications
-   ├── Mobile Applications
-   └── Database-driven Systems
-
-🔐 Cybersecurity
-   ├── Ethical Hacking
-   ├── Vulnerability Assessment
-   ├── Networking
-   ├── Linux & Kali Linux
-   └── CTF / Security Labs
-
+🌐 Frontend Engineering
+🔐 Cybersecurity & Ethical Hacking
 🤖 Artificial Intelligence
-   ├── AI Fundamentals
-   ├── Data Analysis
-   ├── Machine Learning
-   └── AI-powered Applications
-
-🎨 Other Interests
-   ├── UI/UX
-   ├── Human-Computer Interaction
-   └── Systems Simulation
+🎨 UI/UX & Human-Computer Interaction
+📊 Data Analysis
+⚙️ Systems & Simulation
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
 </p>
 
-### 🌐 Development
+### 🌐 Web & Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,reactnative,flask,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,reactnative,flask,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Tools
@@ -88,162 +68,108 @@ Alongside software development, I'm exploring **ethical hacking, vulnerability a
 <img src="https://skillicons.dev/icons?i=linux,kali" />
 </p>
 
-**Also exploring:** `Nmap` `Wireshark` `Hydra` `TryHackMe` `Web Security` `VAPT`
+`Nmap` • `Wireshark` • `Hydra` • `John the Ripper` • `Hashcat` • `TryHackMe`
 
 ---
 
-# 🔐 Cybersecurity & Security Learning
+# 🔐 Cybersecurity
 
-I'm currently building practical cybersecurity skills through hands-on labs and security exercises.
+I'm currently building practical cybersecurity skills through hands-on labs, CTF challenges, and security exercises.
 
 ### Areas I'm Exploring
 
-| Area              | Focus                                             |
-| ----------------- | ------------------------------------------------- |
-| 🌐 Networking     | Network fundamentals, scanning & traffic analysis |
-| 🔍 Reconnaissance | Information gathering & enumeration               |
-| 🛡️ VAPT          | Vulnerability assessment & penetration testing    |
-| 🐧 Linux          | Linux commands, permissions & Kali Linux          |
-| 🔐 Web Security   | Common web vulnerabilities                        |
-| 🧪 CTFs           | Practical security challenges                     |
-| 🔵 Blue Team      | Defensive security & monitoring                   |
+| 🔍 Area           | Focus                                          |
+| ----------------- | ---------------------------------------------- |
+| 🌐 Networking     | Network fundamentals & traffic analysis        |
+| 🔎 Reconnaissance | Information gathering & enumeration            |
+| 🛡️ VAPT          | Vulnerability assessment & penetration testing |
+| 🐧 Linux          | Linux & Kali Linux                             |
+| 🌍 Web Security   | Common web security concepts                   |
+| 🧪 CTFs           | Practical security challenges                  |
+| 🔵 Blue Team      | Defensive security & monitoring                |
 
-### 🧰 Security Tools
+### 🧪 TryHackMe
 
-`Nmap` • `Wireshark` • `Hydra` • `John the Ripper` • `Hashcat` • `Kali Linux` • `TryHackMe`
+**Current Progress: 7%**
 
----
+Currently practicing cybersecurity through hands-on rooms and challenges involving:
 
-# 🚀 Featured Projects
+`Networking` `Linux` `Enumeration` `Web Security` `Authentication` `Vulnerability Assessment` `Penetration Testing`
 
-## 🌱 HabitBloom
-
-> An interactive habit-tracking mobile application that turns daily habits into a virtual garden.
-
-**Tech Stack**
-
-`React Native` `Expo` `TypeScript` `Redux Toolkit` `Firebase`
-
-**Highlights**
-
-* 🌱 Habit tracking with a visual garden concept
-* 🔐 Firebase authentication
-* ☁️ Firestore database
-* 📱 Mobile-first interface
-* 🌤️ Weather integration
-
-🔗 **[View Repository](https://github.com/neharehan2005/HabitBloom-Interactive-Habit-Garden-App)**
+> **Learning cybersecurity by doing, not just reading. 🔐**
 
 ---
 
-## 📅 Meeting Management System
+# 🏆 Cybersecurity Competitions
 
-> A web-based meeting management system for scheduling meetings, managing participants, events, tasks, and notifications.
+## Hack4Bug CyberHackathon'26
 
-**Tech Stack**
+Participated in the **Hack4Bug CyberHackathon'26**, competing across multiple cybersecurity categories:
 
-`Python` `Flask` `PostgreSQL` `Jinja` `Bootstrap`
+`Web` • `Crypto` • `Reverse` • `Forensics` • `OSINT` • `Boot2Root` • `PWN/Binary`
 
-**Features**
+### 🥇 Round 1
 
-* 📅 Meeting scheduling
-* 👥 Participant management
-* 🏢 Room management
-* 📝 Tasks & events
-* 🔔 Notification system
-* 📆 Calendar interface
+**8th Position**
 
-🔗 **[View Repository](https://github.com/neharehan2005/Meeting_Management_System)**
+### 🏆 Final Round
 
----
+**9th Position**
 
-## 📊 Customer Churn Prediction Dashboard
-
-> An interactive dashboard for analyzing customer churn data and presenting machine-learning insights.
-
-**Tech Stack**
-
-`Python` `Streamlit` `Pandas` `Plotly` `Scikit-learn` `Joblib`
-
-**Focus**
-
-* 📈 Data visualization
-* 📊 Customer analytics
-* 🤖 Machine learning
-* 🔎 Interactive exploration
+The competition gave me practical experience in **CTF problem-solving, cybersecurity concepts, teamwork, and working under time constraints**.
 
 ---
 
-## 🔤 Lexical Analyzer
+# 📜 Certifications & Professional Learning
 
-> A Python-based lexical analyzer built using DFA and state-machine concepts.
+## 🔐 Cybersecurity
 
-**Tech Stack**
+* 🛡️ **Cisco — Introduction to Cybersecurity**
+* 🔐 **Google — Foundations of Cybersecurity**
+* 🔎 **Google — Play It Safe: Manage Security Risks**
+* 💻 **Certified Ethical Hacking (CEH) Internship — TechBiz Security Academy**
+* 🧪 **TryHackMe — Hands-on Cybersecurity Learning**
 
-`Python` `DFA` `Automata Theory`
+## 🤖 Artificial Intelligence
 
-**Handles**
+* 🤖 **Google AI Professional Certificate**
 
-`Keywords` • `Identifiers` • `Literals` • `Operators` • `Arrays` • `Comments`
+### AI Areas Explored
 
-🔗 **[View Repository](https://github.com/neharehan2005/Lexical-Analyzer)**
+`AI Fundamentals` • `Brainstorming & Planning` • `Research & Insights` • `Writing & Communicating` • `Content Creation` • `Data Analysis` • `App Building`
 
----
+## 💻 Development
 
-## 📈 Single-Server Queue Simulation
-
-> A Windows Forms application for simulating and analyzing a single-server queueing system.
-
-**Tech Stack**
-
-`C#` `.NET` `Windows Forms`
-
-**Features**
-
-* 👥 Customer arrival simulation
-* ⏱️ Service-time calculation
-* 📊 Queue performance analysis
-* 📋 Simulation data tables
-* 📈 Result visualization
-
-🔗 **[View Repository](https://github.com/neharehan2005/Single-Server-Simulation-Software)**
+* 🌐 **NED Academy — Web Development Certificate**
 
 ---
 
-# 📜 Certifications & Learning
+# 💼 Practical Cybersecurity Experience
 
-### 🔐 Cybersecurity
+### Certified Ethical Hacking (CEH) Internship
 
-* 🛡️ Cisco — Introduction to Cybersecurity
-* 🔐 Google — Foundations of Cybersecurity
-* 💻 Certified Ethical Hacking (CEH) Internship — TechBiz Security Academy
-* 🧪 TryHackMe — Practical Cybersecurity Labs
+**TechBiz Security Academy | August – September 2026**
 
-### 🤖 Artificial Intelligence
+During the internship, I completed practical cybersecurity and ethical-hacking exercises through hands-on labs.
 
-* 🤖 Google AI Professional Certificate
+**Key Learning Areas:**
 
-### 💻 Development
-
-* 🌐 NED Academy — Web Development
-
----
-
-# 🏆 Achievements
-
-### 🥇 Hack4Bug CyberHackathon'26
-
-Participated in the **Hack4Bug CyberHackathon'26**, competing across cybersecurity categories including:
-
-`Web` `Crypto` `Reverse` `Forensics` `OSINT` `Boot2Root` `PWN/Binary`
-
-🏅 **8th Place in Round 1**
-
-🚀 Advanced to the **Final Round** among the top teams.
+* 🔍 Penetration testing exercises
+* 🛡️ Vulnerability assessment
+* 🌐 Web and network security
+* 🐧 Linux and security tools
+* 🧪 TryHackMe practical labs
+* 📝 Penetration testing report preparation
 
 ---
 
-# 🎓 Relevant Coursework
+# 🎓 Education
+
+### University of Karachi
+
+**Bachelor of Science in Computer Science**
+
+My academic interests include:
 
 `Data Structures & Algorithms`
 
@@ -251,9 +177,9 @@ Participated in the **Hack4Bug CyberHackathon'26**, competing across cybersecuri
 
 `Object-Oriented Programming`
 
-`Software Engineering`
-
 `Computer Networks`
+
+`Software Engineering`
 
 `Compiler Construction`
 
@@ -269,85 +195,98 @@ Participated in the **Hack4Bug CyberHackathon'26**, competing across cybersecuri
 
 ---
 
-# 📊 GitHub Analytics
+# 🧩 Development Focus
 
-<div align="center">
+### Frontend Engineering
 
-<img src="https://github-readme-stats.vercel.app/api?username=neharehan2005&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+Building responsive and user-friendly interfaces using:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharehan2005&layout=compact&hide_border=true" height="170"/>
+`HTML` `CSS` `JavaScript` `React` `React Native`
 
-</div>
+### Backend & Databases
 
----
+Working with:
 
-# 🏆 GitHub Trophies
+`Python` `Flask` `PostgreSQL` `Firebase`
 
-<div align="center">
+### Software Development
 
-<img src="https://github-profile-trophy.vercel.app/?username=neharehan2005&theme=flat&no-frame=true&margin-w=10&row=1"/>
+Interested in:
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/neharehan2005/neharehan2005/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+`OOP` `Data Structures` `Database Systems` `Software Engineering` `System Simulation`
 
 ---
 
-# 💻 Neha@Karachi
+# 🤖 Artificial Intelligence
+
+I'm also exploring how AI can be applied to practical software and data-driven problems.
+
+### Areas of Interest
+
+* AI Fundamentals
+* Data Analysis
+* Machine Learning
+* AI-powered Applications
+* Research & Insights
+* AI-assisted Development
+
+---
+
+# 🎨 UI/UX & HCI
+
+I have an interest in designing software that is not only functional but also easy to understand and use.
+
+### Interested In
+
+`User Interface Design`
+
+`User Experience`
+
+`Human-Computer Interaction`
+
+`Usability`
+
+`Interactive Applications`
+
+---
+
+# 💻 Development Philosophy
 
 ```text
-neha@karachi
--------------------------
-
-OS:        Human.dev
-Host:      University of Karachi
-Program:   Computer Science
-Shell:     Python / C++ / Java / JavaScript
-Editor:    VS Code
-Tools:     Git / GitHub / Kali Linux
-Focus:     Software Development + Cybersecurity + AI
-Frontend:  React / React Native
-Backend:   Flask
-Database:  PostgreSQL / Firebase
-Learning:  Ethical Hacking / AI / Web Security
-Status:    Learning & Building 🚀
+        Learn
+          ↓
+       Practice
+          ↓
+        Build
+          ↓
+       Test
+          ↓
+       Improve
+          ↓
+        Repeat
 ```
+
+> **I believe the best way to learn technology is to build with it.**
 
 ---
 
 # 🎯 Current Focus
 
-### 📚 Learning
+### 🔐 Cybersecurity
 
-* 🔐 Ethical Hacking & Penetration Testing
-* 🌐 Web Security
-* 🤖 Artificial Intelligence
-* 🔵 Blue Team & Defensive Security
-* 💻 Advanced Software Development
+Ethical Hacking • VAPT • Web Security • Networking • Linux • CTFs • Blue Team
 
-### 🛠️ Building
+### 💻 Software Development
 
-* Web applications
-* Mobile applications
-* Cybersecurity projects
-* Data-driven applications
-* Simulation software
+Frontend Engineering • Web Applications • Mobile Applications • Database Systems
 
-### 🔎 Exploring
+### 🤖 Artificial Intelligence
 
-* AI-powered applications
-* Secure software development
-* Cybersecurity automation
-* UI/UX & HCI
-* Systems simulation
+AI Fundamentals • Data Analysis • Machine Learning • AI Applications
+
+### 🎨 Design
+
+UI/UX • HCI • Interactive Software
 
 ---
 
@@ -356,23 +295,19 @@ Status:    Learning & Building 🚀
 <div align="center">
 
 <a href="https://github.com/neharehan2005">
-<img src="https://img.shields.io/badge/GitHub-neharehan2005-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-neharehan2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/neha-rehan-dcs/">
-<img src="https://img.shields.io/badge/LinkedIn-Neha%20Rehan-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Neha%20Rehan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-**Learning • Building • Exploring • Growing**
-
-⭐ Feel free to explore my repositories and connect with me!
+### `Build • Secure • Learn • Grow`
 
 </div>
