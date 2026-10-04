@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-7%25%20Progress-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-Top 7%25%20Progress-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 </p>
 
