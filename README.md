@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Neha Rehan
+#  Neha Rehan
 
 ### 💻 Software Developer | Frontend Engineering | 🔐 Cybersecurity | 🤖 AI
 
