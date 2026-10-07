@@ -36,7 +36,6 @@ Alongside software development, I'm actively developing my cybersecurity skills 
 🔐 Cybersecurity & Ethical Hacking
 🤖 Artificial Intelligence
 🎨 UI/UX & Human-Computer Interaction
-📊 Data Analysis
 ⚙️ Systems & Simulation
 ```
 
